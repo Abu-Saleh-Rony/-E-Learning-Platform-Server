@@ -1,0 +1,62 @@
+[
+    {
+        "id": "01",
+        "name": "JavaScript",
+        "img": "https://codeberryschool.com/blog/wp-content/uploads/2021/08/cover-1-2048x1152.png",
+        "title": "JavaScript MasterClass",
+        "description": "JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user.",
+        "price": "1500",
+        "prime_img": "https://codeberryschool.com/blog/wp-content/uploads/2021/08/cover-1-2048x1152.png",
+        "location": "Dhaka, Bangladesh"
+    },
+    {
+        "id": "02",
+        "name": "React JS",
+        "img": "https://www.datocms-assets.com/14946/1638186862-reactjs.png?auto=format&w=1000",
+        "title": "React Js MasterClass",
+        "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.",
+        "price": "2500",
+        "prime_img": "https://www.datocms-assets.com/14946/1638186862-reactjs.png?auto=format&w=1000",
+        "location": "Dhaka, Bangladesh"
+    },
+    {
+        "id": "03",
+        "name": "Vue JS",
+        "img": "https://www.omeecron.com/wp-content/uploads/2022/06/vuejs.png",
+        "title": "Vue JS Crash Course",
+        "description": "What is JavaScript? JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well.",
+        "price": "2000",
+        "prime_img": "https://www.omeecron.com/wp-content/uploads/2022/06/vuejs.png",
+        "location": "Dhaka, Bangladesh"
+    },
+    {
+        "id": "04",
+        "name": "Angular JS",
+        "img": "https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/angularjs-logo-blog-header_0.jpg?itok=CUBxFqam",
+        "title": "Angular JS Crash Course",
+        "description": "AngularJS is a toolset for building the framework most suited to your application development. It is fully extensible and works well with other libraries. Every feature can be modified or replaced to suit your unique development workflow and feature needs. Read on to find out how.",
+        "price": "1500",
+        "prime_img": "https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/angularjs-logo-blog-header_0.jpg?itok=CUBxFqam",
+        "location": "Dhaka, Bangladesh"
+    },
+    {
+        "id": "05",
+        "name": "Node JS ",
+        "img": "https://kruschecompany.com/wp-content/uploads/2021/06/Cover-image-for-blog-on-Node.js-development-entwicklung-1280x595.png",
+        "title": "Node JS MasterClass",
+        "description": "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications.",
+        "price": "1000",
+        "prime_img": "https://kruschecompany.com/wp-content/uploads/2021/06/Cover-image-for-blog-on-Node.js-development-entwicklung-1280x595.png",
+        "location": "Dhaka, Bangladesh"
+    },
+    {
+        "id": "06",
+        "name": "Express JS",
+        "img": "https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/07/express-logo-528x240.png",
+        "title": "Express JS MasterClass",
+        "description": "Express.js, or simply Express, is a back end web application framework for building RESTful APIs with Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js",
+        "price": "2000",
+        "prime_img": "https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/07/express-logo-528x240.png",
+        "location": "Dhaka, Bangladesh"
+    }
+]
